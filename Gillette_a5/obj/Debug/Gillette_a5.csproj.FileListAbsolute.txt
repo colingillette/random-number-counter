@@ -1,0 +1,10 @@
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\bin\Debug\Gillette_a5.exe.config
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\bin\Debug\Gillette_a5.exe
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\bin\Debug\Gillette_a5.pdb
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.csprojResolveAssemblyReference.cache
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.Form1.resources
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.Properties.Resources.resources
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.csproj.GenerateResource.Cache
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.csproj.CoreCompileInputs.cache
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.exe
+E:\MSU\CIS 266 C#\Assignments\RandomNumberGenerator\Gillette_a5\Gillette_a5\obj\Debug\Gillette_a5.pdb
